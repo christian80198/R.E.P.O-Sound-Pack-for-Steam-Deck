@@ -1,6 +1,6 @@
 # R.E.P.O Sound Pack for Audio Loader
 
-Hello! This is an audio pack containing sounds from R.E.P.O., that cool game on Steam by semiwork. These sounds weren't ripped from the game (bcz i'm a little stupid) and were instead gathered on a site named "The Sounds Resource".
+Hello! This is an audio pack containing sounds from R.E.P.O., that cool game on Steam by semiwork. These sounds weren't ripped from the game (bcz i'm a little stupid) and were instead gathered on a site named "The Sounds Resource". These are being used for replacing SteamUI sounds with Audio Loader.
 
 If you don't know what Audio Loader is:
 1) You're living under a rock.
@@ -13,4 +13,14 @@ Decky is a homebrew modding application for Steam Deck. Download it from their s
 
 # What this pack contains
 
-This pack contains Player sounds and UI sounds from R.E.P.O. Jumping sounds, extraction point sounds, all of that.
+This pack contains Player sounds and UI sounds from R.E.P.O. Jumping, landing, upgrades, menus, a lot but not all are used. Some sounds might not be replaced.
+
+# Sites
+
+[R.E.P.O. Sounds on The Sounds Resource](https://sounds.spriters-resource.com/pc_computer/repo/)
+
+[R.E.P.O. on Steam](https://store.steampowered.com/app/3241660/REPO/)
+
+[DeckThemes](https://deckthemes.com/)
+
+[Decky Loader for Steam Deck](https://decky.xyz/)
