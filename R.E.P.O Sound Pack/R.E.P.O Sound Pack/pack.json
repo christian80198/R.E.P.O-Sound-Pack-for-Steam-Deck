@@ -1,0 +1,22 @@
+{
+  "name": "R.E.P.O Sound Pack",
+  "description": "Sound pack containing sounds from R.E.P.O. Mainly for Audio Loader plugin on Steam Deck. The sounds were from The Sounds Resource.",
+  "author": "christian80198",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [
+    "bumper_end.wav",
+    "confirmation_negative.wav",
+    "confirmation_positive.wav",
+    "deck_ui_message_toast.wav",
+    "deck_ui_misc_01.wav",
+    "deck_ui_misc_08.wav",
+    "deck_ui_tile_scroll.wav",
+    "pop_sound.wav",
+    "ui_steam_smoother_friend_join.m4a"
+  ],
+  "mappings": {
+    "deck_ui_misc_10.wav": ["repo_navigate.wav"]
+  }
+}
